@@ -1,7 +1,7 @@
 /*
  * @author staff This is a class showcasing the ability of Jtest. This code has
- * a number of Coding Standards errors developers commonly make.
- *1111111tddd111d/
+ * a number of Coding Standards errors developers commonly make.1111111tddd111d
+ */
 package examples.eval;
 
 /**
